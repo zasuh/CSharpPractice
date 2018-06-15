@@ -1,0 +1,8 @@
+D:\Skul\RPA Drugic\OpenFileDialog1\bin\Debug\OpenFileDialog1.exe.config
+D:\Skul\RPA Drugic\OpenFileDialog1\bin\Debug\OpenFileDialog1.exe
+D:\Skul\RPA Drugic\OpenFileDialog1\bin\Debug\OpenFileDialog1.pdb
+D:\Skul\RPA Drugic\OpenFileDialog1\obj\Debug\OpenFileDialog1.Form1.resources
+D:\Skul\RPA Drugic\OpenFileDialog1\obj\Debug\OpenFileDialog1.Properties.Resources.resources
+D:\Skul\RPA Drugic\OpenFileDialog1\obj\Debug\OpenFileDialog1.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\OpenFileDialog1\obj\Debug\OpenFileDialog1.exe
+D:\Skul\RPA Drugic\OpenFileDialog1\obj\Debug\OpenFileDialog1.pdb

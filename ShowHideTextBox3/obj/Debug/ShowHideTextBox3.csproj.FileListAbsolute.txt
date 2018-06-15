@@ -1,0 +1,5 @@
+D:\Skul\RPA Drugic\ShowHideTextBox3\bin\Debug\ShowHideTextBox3.exe.config
+D:\Skul\RPA Drugic\ShowHideTextBox3\obj\Debug\ShowHideTextBox3.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\ShowHideTextBox3\obj\Debug\ShowHideTextBox3.Form1.resources
+D:\Skul\RPA Drugic\ShowHideTextBox3\obj\Debug\ShowHideTextBox3.Properties.Resources.resources
+D:\Skul\RPA Drugic\ShowHideTextBox3\obj\Debug\ShowHideTextBox3.csproj.GenerateResource.Cache

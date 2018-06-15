@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\MDIParentChild1\bin\Debug\MDIParentChild1.exe.config
+D:\Skul\RPA Drugic\MDIParentChild1\bin\Debug\MDIParentChild1.exe
+D:\Skul\RPA Drugic\MDIParentChild1\bin\Debug\MDIParentChild1.pdb
+D:\Skul\RPA Drugic\MDIParentChild1\obj\Debug\MDIParentChild1.Child.resources
+D:\Skul\RPA Drugic\MDIParentChild1\obj\Debug\MDIParentChild1.Form1.resources
+D:\Skul\RPA Drugic\MDIParentChild1\obj\Debug\MDIParentChild1.Properties.Resources.resources
+D:\Skul\RPA Drugic\MDIParentChild1\obj\Debug\MDIParentChild1.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\MDIParentChild1\obj\Debug\MDIParentChild1.exe
+D:\Skul\RPA Drugic\MDIParentChild1\obj\Debug\MDIParentChild1.pdb

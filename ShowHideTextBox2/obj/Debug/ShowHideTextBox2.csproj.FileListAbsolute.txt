@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\ShowHideTextBox2\bin\Debug\ShowHideTextBox2.exe.config
+D:\Skul\RPA Drugic\ShowHideTextBox2\bin\Debug\ShowHideTextBox2.exe
+D:\Skul\RPA Drugic\ShowHideTextBox2\bin\Debug\ShowHideTextBox2.pdb
+D:\Skul\RPA Drugic\ShowHideTextBox2\obj\Debug\ShowHideTextBox2.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\ShowHideTextBox2\obj\Debug\ShowHideTextBox2.Form1.resources
+D:\Skul\RPA Drugic\ShowHideTextBox2\obj\Debug\ShowHideTextBox2.Properties.Resources.resources
+D:\Skul\RPA Drugic\ShowHideTextBox2\obj\Debug\ShowHideTextBox2.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\ShowHideTextBox2\obj\Debug\ShowHideTextBox2.exe
+D:\Skul\RPA Drugic\ShowHideTextBox2\obj\Debug\ShowHideTextBox2.pdb

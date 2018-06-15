@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\DataGridView2\bin\Debug\DataGridView2.exe.config
+D:\Skul\RPA Drugic\DataGridView2\bin\Debug\DataGridView2.exe
+D:\Skul\RPA Drugic\DataGridView2\bin\Debug\DataGridView2.pdb
+D:\Skul\RPA Drugic\DataGridView2\obj\Debug\DataGridView2.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\DataGridView2\obj\Debug\DataGridView2.Form1.resources
+D:\Skul\RPA Drugic\DataGridView2\obj\Debug\DataGridView2.Properties.Resources.resources
+D:\Skul\RPA Drugic\DataGridView2\obj\Debug\DataGridView2.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\DataGridView2\obj\Debug\DataGridView2.exe
+D:\Skul\RPA Drugic\DataGridView2\obj\Debug\DataGridView2.pdb

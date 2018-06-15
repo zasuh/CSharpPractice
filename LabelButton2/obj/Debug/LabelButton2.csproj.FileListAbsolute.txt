@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\LabelButton2\bin\Debug\LabelButton2.exe.config
+D:\Skul\RPA Drugic\LabelButton2\bin\Debug\LabelButton2.exe
+D:\Skul\RPA Drugic\LabelButton2\bin\Debug\LabelButton2.pdb
+D:\Skul\RPA Drugic\LabelButton2\obj\Debug\LabelButton2.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\LabelButton2\obj\Debug\LabelButton2.Form1.resources
+D:\Skul\RPA Drugic\LabelButton2\obj\Debug\LabelButton2.Properties.Resources.resources
+D:\Skul\RPA Drugic\LabelButton2\obj\Debug\LabelButton2.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\LabelButton2\obj\Debug\LabelButton2.exe
+D:\Skul\RPA Drugic\LabelButton2\obj\Debug\LabelButton2.pdb

@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\TextBoxRadioButton1\bin\Debug\TextBoxRadioButton1.exe.config
+D:\Skul\RPA Drugic\TextBoxRadioButton1\bin\Debug\TextBoxRadioButton1.exe
+D:\Skul\RPA Drugic\TextBoxRadioButton1\bin\Debug\TextBoxRadioButton1.pdb
+D:\Skul\RPA Drugic\TextBoxRadioButton1\obj\Debug\TextBoxRadioButton1.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\TextBoxRadioButton1\obj\Debug\TextBoxRadioButton1.Form1.resources
+D:\Skul\RPA Drugic\TextBoxRadioButton1\obj\Debug\TextBoxRadioButton1.Properties.Resources.resources
+D:\Skul\RPA Drugic\TextBoxRadioButton1\obj\Debug\TextBoxRadioButton1.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\TextBoxRadioButton1\obj\Debug\TextBoxRadioButton1.exe
+D:\Skul\RPA Drugic\TextBoxRadioButton1\obj\Debug\TextBoxRadioButton1.pdb

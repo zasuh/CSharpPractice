@@ -1,0 +1,8 @@
+D:\Skul\RPA Drugic\MojaBeleznica\bin\Debug\MojaBeleznica.exe.config
+D:\Skul\RPA Drugic\MojaBeleznica\bin\Debug\MojaBeleznica.exe
+D:\Skul\RPA Drugic\MojaBeleznica\bin\Debug\MojaBeleznica.pdb
+D:\Skul\RPA Drugic\MojaBeleznica\obj\Debug\MojaBeleznica.Form1.resources
+D:\Skul\RPA Drugic\MojaBeleznica\obj\Debug\MojaBeleznica.Properties.Resources.resources
+D:\Skul\RPA Drugic\MojaBeleznica\obj\Debug\MojaBeleznica.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\MojaBeleznica\obj\Debug\MojaBeleznica.exe
+D:\Skul\RPA Drugic\MojaBeleznica\obj\Debug\MojaBeleznica.pdb

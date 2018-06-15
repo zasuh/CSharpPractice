@@ -1,0 +1,10 @@
+D:\Skul\RPA Drugic\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\Skul\RPA Drugic\PictureViewer\bin\Debug\PictureViewer.exe
+D:\Skul\RPA Drugic\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\Skul\RPA Drugic\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\PictureViewer\obj\Debug\PictureViewer.Child.resources
+D:\Skul\RPA Drugic\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\Skul\RPA Drugic\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\Skul\RPA Drugic\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\PictureViewer\obj\Debug\PictureViewer.exe
+D:\Skul\RPA Drugic\PictureViewer\obj\Debug\PictureViewer.pdb
