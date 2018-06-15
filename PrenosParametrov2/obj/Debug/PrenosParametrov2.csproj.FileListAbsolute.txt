@@ -1,0 +1,10 @@
+D:\Skul\RPA Drugic\PrenosParametrov2\bin\Debug\PrenosParametrov2.exe.config
+D:\Skul\RPA Drugic\PrenosParametrov2\bin\Debug\PrenosParametrov2.exe
+D:\Skul\RPA Drugic\PrenosParametrov2\bin\Debug\PrenosParametrov2.pdb
+D:\Skul\RPA Drugic\PrenosParametrov2\obj\Debug\PrenosParametrov2.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\PrenosParametrov2\obj\Debug\PrenosParametrov2.Form1.resources
+D:\Skul\RPA Drugic\PrenosParametrov2\obj\Debug\PrenosParametrov2.Form2.resources
+D:\Skul\RPA Drugic\PrenosParametrov2\obj\Debug\PrenosParametrov2.Properties.Resources.resources
+D:\Skul\RPA Drugic\PrenosParametrov2\obj\Debug\PrenosParametrov2.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\PrenosParametrov2\obj\Debug\PrenosParametrov2.exe
+D:\Skul\RPA Drugic\PrenosParametrov2\obj\Debug\PrenosParametrov2.pdb
