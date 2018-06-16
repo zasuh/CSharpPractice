@@ -58,7 +58,7 @@ namespace PictureViewer
 
                     this.Text = "Slika - " + System.IO.Path.GetFileName(openFileDialog1.FileName);
 
-                    pictureBox1.Image = Image.FromFile(openFileDialog1.FileName);
+                    newMDIChild.pictureBox1.Image = Image.FromFile(openFileDialog1.FileName);
 
                 }
 
@@ -67,7 +67,7 @@ namespace PictureViewer
                 {
 
                     this.Text = "Slika";
-                    pictureBox1.Image = null;
+                    newMDIChild.pictureBox1.Image = null;
                 }
 
             }
@@ -78,7 +78,7 @@ namespace PictureViewer
 
                 this.Text = "Slika";
 
-                pictureBox1.Image = null;
+                newMDIChild.pictureBox1.Image = null;
 
                 MessageBox.Show("Izbrane datoteke ne morem prikazati v PictureBoxu.", "Napaka",
 
