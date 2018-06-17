@@ -1,0 +1,5 @@
+D:\Skul\RPA Drugic\Parametri2\bin\Debug\Parametri2.exe.config
+D:\Skul\RPA Drugic\Parametri2\obj\Debug\Parametri2.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\Parametri2\obj\Debug\Parametri2.Form1.resources
+D:\Skul\RPA Drugic\Parametri2\obj\Debug\Parametri2.Properties.Resources.resources
+D:\Skul\RPA Drugic\Parametri2\obj\Debug\Parametri2.csproj.GenerateResource.Cache

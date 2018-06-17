@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\EnaTabela3\bin\Debug\EnaTabela3.exe.config
+D:\Skul\RPA Drugic\EnaTabela3\bin\Debug\EnaTabela3.exe
+D:\Skul\RPA Drugic\EnaTabela3\bin\Debug\EnaTabela3.pdb
+D:\Skul\RPA Drugic\EnaTabela3\obj\Debug\EnaTabela3.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\EnaTabela3\obj\Debug\EnaTabela3.Form1.resources
+D:\Skul\RPA Drugic\EnaTabela3\obj\Debug\EnaTabela3.Properties.Resources.resources
+D:\Skul\RPA Drugic\EnaTabela3\obj\Debug\EnaTabela3.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\EnaTabela3\obj\Debug\EnaTabela3.exe
+D:\Skul\RPA Drugic\EnaTabela3\obj\Debug\EnaTabela3.pdb

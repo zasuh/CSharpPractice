@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\PovezaneTabele1\bin\Debug\PovezaneTabele1.exe.config
+D:\Skul\RPA Drugic\PovezaneTabele1\bin\Debug\PovezaneTabele1.exe
+D:\Skul\RPA Drugic\PovezaneTabele1\bin\Debug\PovezaneTabele1.pdb
+D:\Skul\RPA Drugic\PovezaneTabele1\obj\Debug\PovezaneTabele1.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\PovezaneTabele1\obj\Debug\PovezaneTabele1.Form1.resources
+D:\Skul\RPA Drugic\PovezaneTabele1\obj\Debug\PovezaneTabele1.Properties.Resources.resources
+D:\Skul\RPA Drugic\PovezaneTabele1\obj\Debug\PovezaneTabele1.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\PovezaneTabele1\obj\Debug\PovezaneTabele1.exe
+D:\Skul\RPA Drugic\PovezaneTabele1\obj\Debug\PovezaneTabele1.pdb
