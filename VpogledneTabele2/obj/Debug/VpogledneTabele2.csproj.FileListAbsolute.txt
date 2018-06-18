@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\VpogledneTabele2\bin\Debug\VpogledneTabele2.exe.config
+D:\Skul\RPA Drugic\VpogledneTabele2\bin\Debug\VpogledneTabele2.exe
+D:\Skul\RPA Drugic\VpogledneTabele2\bin\Debug\VpogledneTabele2.pdb
+D:\Skul\RPA Drugic\VpogledneTabele2\obj\Debug\VpogledneTabele2.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\VpogledneTabele2\obj\Debug\VpogledneTabele2.Form1.resources
+D:\Skul\RPA Drugic\VpogledneTabele2\obj\Debug\VpogledneTabele2.Properties.Resources.resources
+D:\Skul\RPA Drugic\VpogledneTabele2\obj\Debug\VpogledneTabele2.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\VpogledneTabele2\obj\Debug\VpogledneTabele2.exe
+D:\Skul\RPA Drugic\VpogledneTabele2\obj\Debug\VpogledneTabele2.pdb

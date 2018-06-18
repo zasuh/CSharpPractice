@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\Filtriranje2\bin\Debug\Filtriranje2.exe.config
+D:\Skul\RPA Drugic\Filtriranje2\bin\Debug\Filtriranje2.exe
+D:\Skul\RPA Drugic\Filtriranje2\bin\Debug\Filtriranje2.pdb
+D:\Skul\RPA Drugic\Filtriranje2\obj\Debug\Filtriranje2.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\Filtriranje2\obj\Debug\Filtriranje2.Form1.resources
+D:\Skul\RPA Drugic\Filtriranje2\obj\Debug\Filtriranje2.Properties.Resources.resources
+D:\Skul\RPA Drugic\Filtriranje2\obj\Debug\Filtriranje2.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\Filtriranje2\obj\Debug\Filtriranje2.exe
+D:\Skul\RPA Drugic\Filtriranje2\obj\Debug\Filtriranje2.pdb

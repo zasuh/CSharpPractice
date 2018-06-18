@@ -1,0 +1,9 @@
+D:\Skul\RPA Drugic\SpreminjanjeVsebinTabel\bin\Debug\SpreminjanjeVsebinTabel.exe.config
+D:\Skul\RPA Drugic\SpreminjanjeVsebinTabel\bin\Debug\SpreminjanjeVsebinTabel.exe
+D:\Skul\RPA Drugic\SpreminjanjeVsebinTabel\bin\Debug\SpreminjanjeVsebinTabel.pdb
+D:\Skul\RPA Drugic\SpreminjanjeVsebinTabel\obj\Debug\SpreminjanjeVsebinTabel.csprojResolveAssemblyReference.cache
+D:\Skul\RPA Drugic\SpreminjanjeVsebinTabel\obj\Debug\SpreminjanjeVsebinTabel.Form1.resources
+D:\Skul\RPA Drugic\SpreminjanjeVsebinTabel\obj\Debug\SpreminjanjeVsebinTabel.Properties.Resources.resources
+D:\Skul\RPA Drugic\SpreminjanjeVsebinTabel\obj\Debug\SpreminjanjeVsebinTabel.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\SpreminjanjeVsebinTabel\obj\Debug\SpreminjanjeVsebinTabel.exe
+D:\Skul\RPA Drugic\SpreminjanjeVsebinTabel\obj\Debug\SpreminjanjeVsebinTabel.pdb
