@@ -1,0 +1,8 @@
+D:\Skul\RPA Drugic\ShranjevanjeSlik2\bin\Debug\ShranjevanjeSlik2.exe.config
+D:\Skul\RPA Drugic\ShranjevanjeSlik2\bin\Debug\ShranjevanjeSlik2.exe
+D:\Skul\RPA Drugic\ShranjevanjeSlik2\bin\Debug\ShranjevanjeSlik2.pdb
+D:\Skul\RPA Drugic\ShranjevanjeSlik2\obj\Debug\ShranjevanjeSlik2.Form1.resources
+D:\Skul\RPA Drugic\ShranjevanjeSlik2\obj\Debug\ShranjevanjeSlik2.Properties.Resources.resources
+D:\Skul\RPA Drugic\ShranjevanjeSlik2\obj\Debug\ShranjevanjeSlik2.csproj.GenerateResource.Cache
+D:\Skul\RPA Drugic\ShranjevanjeSlik2\obj\Debug\ShranjevanjeSlik2.exe
+D:\Skul\RPA Drugic\ShranjevanjeSlik2\obj\Debug\ShranjevanjeSlik2.pdb
